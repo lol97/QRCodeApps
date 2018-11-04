@@ -29,6 +29,7 @@ namespace QRCode
                     QRCoder.QRCodeGenerator QG = new QRCoder.QRCodeGenerator();
                     var Text = QG.CreateQrCode(textBox1.Text, QRCoder.QRCodeGenerator.ECCLevel.H);
                     var Code = new QRCoder.QRCode(Text);
+                    pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
                     pictureBox1.Image = Code.GetGraphic(50);
                     break;
                 case 1:

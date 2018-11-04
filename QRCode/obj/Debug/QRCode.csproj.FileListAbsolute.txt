@@ -1,0 +1,15 @@
+D:\Code\VSProject\UI\QRCode\QRCode\bin\Debug\QRCode.exe.config
+D:\Code\VSProject\UI\QRCode\QRCode\bin\Debug\QRCode.exe
+D:\Code\VSProject\UI\QRCode\QRCode\bin\Debug\QRCode.pdb
+D:\Code\VSProject\UI\QRCode\QRCode\bin\Debug\QRCoder.dll
+D:\Code\VSProject\UI\QRCode\QRCode\bin\Debug\System.Drawing.Common.dll
+D:\Code\VSProject\UI\QRCode\QRCode\bin\Debug\UnityEngine.dll
+D:\Code\VSProject\UI\QRCode\QRCode\obj\Debug\QRCode.csprojAssemblyReference.cache
+D:\Code\VSProject\UI\QRCode\QRCode\obj\Debug\QRCode.Form1.resources
+D:\Code\VSProject\UI\QRCode\QRCode\obj\Debug\QRCode.Properties.Resources.resources
+D:\Code\VSProject\UI\QRCode\QRCode\obj\Debug\QRCode.csproj.GenerateResource.cache
+D:\Code\VSProject\UI\QRCode\QRCode\obj\Debug\QRCode.csproj.CoreCompileInputs.cache
+D:\Code\VSProject\UI\QRCode\QRCode\obj\Debug\QRCode.csproj.CopyComplete
+D:\Code\VSProject\UI\QRCode\QRCode\obj\Debug\QRCode.exe
+D:\Code\VSProject\UI\QRCode\QRCode\obj\Debug\QRCode.pdb
+D:\Code\VSProject\UI\QRCode\QRCode\bin\Debug\Zen.Barcode.Core.dll
