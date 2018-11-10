@@ -8,6 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Speech;
+using System.Speech.Synthesis;
 
 namespace QRCode
 {
@@ -90,6 +92,13 @@ namespace QRCode
                 pictureBox1.Image.Save(sfd.FileName, format);
             }
 
+        }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            SpeechSynthesizer synth = new SpeechSynthesizer();
+            synth.SetOutputToDefaultAudioDevice();
+            synth.Speak(textBox1.Text);
         }
     }
 }
